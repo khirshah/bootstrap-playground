@@ -4,5 +4,5 @@ playing with bootstrap a bit to explore its full potential
 # install
 `npm install`
 
-#run
+# run
 `npm start`
